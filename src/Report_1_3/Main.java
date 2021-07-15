@@ -21,7 +21,5 @@ public class Main {
 
         int missing_9th_digit = sum_of_9_digits - sum_of_arr;
         System.out.println("The missing 9th digit of a suduko grid: " + missing_9th_digit);
-
-
     }
 }

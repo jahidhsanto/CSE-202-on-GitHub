@@ -1,4 +1,4 @@
-package Report_2_1;
+package Report_2;
 
 public class odd {
     int n;

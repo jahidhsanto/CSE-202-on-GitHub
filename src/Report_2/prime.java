@@ -1,4 +1,4 @@
-package Report_2_1;
+package Report_2;
 
 public class prime {
     public static void main(String[] args) {

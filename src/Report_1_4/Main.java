@@ -16,6 +16,5 @@ public class Main {
 
         System.out.println("Value of X : " + X);
         System.out.println("Balue of Y : " + Y);
-
     }
 }
